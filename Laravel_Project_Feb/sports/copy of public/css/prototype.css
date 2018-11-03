@@ -1,0 +1,349 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+body{
+    background-color: black;
+    margin:0;
+    padding:0;
+    background-attachment: fixed;
+}
+#stadium{
+    background-image:url(stadium.jpg);
+    height: 100%; width: 80%;
+    margin-left: 12%;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+h1{
+    font-family: 'Great+Vibes';
+    font-size: 120px;
+    color: white;
+    position:absolute;
+    left:860px;
+    margin-top: auto;
+    text-shadow: 0px 5px black;
+}
+h2{
+    font-family: 'Damion';
+    font-size: 30px;
+    color: white;
+    position:absolute;
+    left:860px;
+    top: 95px;
+    text-shadow: 0 1px 100px black;
+}
+.square
+{
+    background-color: black;
+    width: 75%;
+    height: 75%;
+    position:absolute;
+    top: 170px;
+    left:150px;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+.square2
+{
+    width: 75%;
+    height: 75%;
+    position:absolute;
+    top: 170px;
+    left:150px;
+    overflow-y: scroll;
+}
+
+#ball{
+    position: absolute;
+    height :200px ;
+    width :200px;
+    left:100px;
+    top: 100px;
+}
+footer{
+    background-color: #111;
+    width: 100%;
+    /*height: 10%*/
+    position:fixed;
+    font-family: arial, helvetica;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    bottom: 0;
+}
+.tablePlayer{
+    border-collapse: collapse;
+    text-align: center;
+    width: 80%;
+    left:150px;
+    top: 280px;
+    position: absolute;
+}
+.tablePlayer td
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    text-shadow: 5px 5px 5px #002752;
+}
+.tablePlayer th
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 800px;
+    text-align: center;
+    height: 30px;
+    background-color: #002752;
+}
+#photoplayer
+{
+    position: absolute;
+    left: 180px;
+    top: 125px;
+
+}
+h3
+{
+    position: absolute;
+    left: 380px;
+    top: 110px;
+    font-family: Arial;
+    font-size: 50px;
+    color: white;
+}
+#photoflag
+{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+h4
+{
+    font-family: Arial;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+}
+.tableTeams{
+    border-collapse: collapse;
+    text-align: center;
+    width: 80%;
+    left:150px;
+    top: 120px;
+    position: absolute;
+}
+.tableTeams td
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    text-shadow: 5px 5px 5px #002752;
+}
+.tableTeams th
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 800px;
+    text-align: center;
+    height: 30px;
+    background-color: #002752;
+}
+.tableTeams a
+{
+   color: white;text-decoration: none;
+}
+
+.tableEachTeams{
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    left:500px;
+    top: 120px;
+    position: absolute;
+}
+.tableEachTeams td
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    text-shadow: 5px 5px 5px #002752;
+}
+.tableEachTeams th
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 800px;
+    text-align: center;
+    height: 30px;
+    background-color: #002752;
+}
+.tableEachTeams a {
+    color: white;
+    text-decoration: none;
+}
+.logoteam2
+{
+    position: absolute;
+    left:100px;
+    height: 300px;
+    width: 300px;
+    top: 120px;
+}
+.tableEachPlayers{
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    left:500px;
+    top: 250px;
+    position: absolute;
+}
+.tableEachPlayers td
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    text-shadow: 5px 5px 5px #002752;
+}
+.tableEachPlayers th
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 800px;
+    text-align: center;
+    height: 30px;
+    background-color: #002752;
+}
+.tableEachPlayers a {
+    color: white;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+li a:hover {
+    background-color: #111;
+
+}
+.tableMatches{
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    left:320px;
+    top: 300px;
+    position: relative;
+}
+.tableMatches td
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    text-shadow: 5px 5px 5px #002752;
+
+}
+.tableMatches th
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 800px;
+    text-align: center;
+    height: 30px;
+    background-color: #002752;
+}
+.tableMatches a {
+    color: white;
+    text-decoration: none;
+}
+#detailsmatch {
+    color: white;
+    font-size: 20px;
+}
+.tablefutureMatches{
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    left:320px;
+    top: 200px;
+    position: absolute;
+}
+.tablefutureMatches td
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    text-shadow: 5px 5px 5px #002752;
+
+}
+.tablefutureMatches th
+{
+    font-family: 'Arial';
+    font-size: 30px;
+    color: white;
+    width: 800px;
+    text-align: center;
+    height: 30px;
+    background-color: #002752;
+}
+.tablefutureMatches a {
+    color: white;
+    text-decoration: none;
+}
+.containerlogin
+{
+    text-align: center;
+    width: 50%;
+    left:320px;
+    top: 200px;
+    position: absolute;
+    font-size: 20px;
+    font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+#emailcontrol, #passwordcontrolcontrol
+{
+    position: absolute;
+    left: 150px;
+}
+

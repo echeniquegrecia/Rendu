@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+	"WELCOME IN OUR BASEBALL OFFICIAL SITE"=> "BIENVENUE SUR NOTRE PAGE OFFICIELLE DE BASEBALL",
+	"Login"=> "Identifiant",
+	"Register"=> "S'inscrire",
+	"Home"=> "Accueil",
+	"Teams"=> "Nos équipes",
+	"Players"=> "Les joueurs",
+	"E-Mail Address"=> "Mel",
+	"Password"=> "Mot de passe",
+	"Remember Me"=> "Se souvenir de moi",
+	"Forgot Your Password?"=> "Mot de passe oublié",
+	"Name"=> "Nom/Prénom",
+	"Confirm Password"=> "Confirmer le mot de passe",
+	"Dashboard"=>"Tableau de bord",
+	"Our players ranking"=> "Classement des joueurs",
+	"Ranking"=> "Classement",
+	"You are logged in!"=> "Tu es connecté!",
+	"Individual description"=> "Détail du joueur",
+	"NAME"=>"NOM DES JOUEURS",
+	"AGE"=> "AGE",
+	"HEIGHT"=> "TAILLE",
+	"RANKING"=> "CLASSEMENT",
+	"POSITION"=> "POSITION",
+	"NATIONALITY"=> "NATIONALITE",
+	"News"=> "Actualités",
+	"Lang"=> "Langue",
+	"English"=> "Anglais",
+	"Spanish"=> "Espagnol",
+	"French"=>"Français",
+    "Connect your passion for the baseball with us!"=>" Vis ta passion pour le baseball avec nous!",
+    "Register your passion for the baseball with us!"=>"Montre ta passion pour le baseball avec nous!",
+    "Logout"=>"Déconnection",
+
+];

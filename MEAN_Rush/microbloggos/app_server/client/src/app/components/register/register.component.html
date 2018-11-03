@@ -1,0 +1,18 @@
+<h1>
+  Register
+</h1>
+<form (ngSubmit)="onSubmit()" class="form-signin">
+  <span id="reauth-email" class="reauth-email"></span>
+  <input [(ngModel)]="username" type="text" placeholder="username" id="username" name="username"class="form-control" required autofocus>
+  <input [(ngModel)]="email" type="text" class="form-control" id="email" name="email"placeholder="Email address" required autofocus>
+  <input [(ngModel)]="password" type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+  <div id="remember" class="checkbox">
+    <label>
+      <input type="checkbox" value="remember-me"> Remember me
+    </label>
+  </div>
+  <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Sign in</button>
+</form><!-- /form -->
+
+
+

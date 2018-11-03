@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbf6634d-b43b-4bdd-aa26-c8ca6b4d80ac" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/sports/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PlayersController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/PlayersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/resources/lang/en/messages.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/resources/lang/esp/messages.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/resources/lang/fr/messages.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BetsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/BetsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="e#39#52#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/AdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bets.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/app/Bets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Match.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sports/app/Match.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logi</find>
+      <find>login</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_13_080016_add_column_date_day.php" />
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_13_080327_add_column_date_day.php" />
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_13_080505_add_column_date_day_match.php" />
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_13_083056_create_bet_table.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/prototypehome.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/prototype.css" />
+        <option value="$PROJECT_DIR$/sports/resources/views/prototype.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/prototypePlayers.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/players.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/teamRankingoriginal.blade.php" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Controllers/TeamController.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/teamOriginal.blade.php" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Controllers/PlayersController.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/teamRanking.blade.php" />
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_15_190630_add_column_photoplayer.php" />
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_15_191928_add_column_photonationality.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/playersRanking.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/players.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/team.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/auth/logintest.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/auth/loginOriginal.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/auth/passwords/register.blade.php" />
+        <option value="$PROJECT_DIR$/sports/app/Match.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/matchDetailsPas.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/matchDetailsPast.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/matchDetails.blade.php" />
+        <option value="$PROJECT_DIR$/sports/public/js/time.js" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Controllers/MatchController.php" />
+        <option value="$PROJECT_DIR$/sports/database/migrations/2018_04_30_070759_create_users_table.php" />
+        <option value="$PROJECT_DIR$/sports/app/Bets.php" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/sports/public/css/prototype.css" />
+        <option value="$PROJECT_DIR$/sports/resources/views/AFM.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/AFPos.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/AFT.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/AFU.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/admin.blade.php" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/AFP.blade.php" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/sports/config/app.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/sports/.env" />
+        <option value="$PROJECT_DIR$/sports/routes/web.php" />
+        <option value="$PROJECT_DIR$/sports/resources/lang/en/messages.php" />
+        <option value="$PROJECT_DIR$/sports/resources/lang/fr/messages.php" />
+        <option value="$PROJECT_DIR$/sports/resources/views/match.blade.php" />
+        <option value="$PROJECT_DIR$/sports/resources/lang/esp/messages.php" />
+        <option value="$PROJECT_DIR$/sports/app/Http/Controllers/BetsController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/sports/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/sports/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/sports/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/sports/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/sports/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/sports/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/sports/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/sports/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/sports/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/sports/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/sports/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/sports/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/sports/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/sports/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/sports/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/sports/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/sports/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/sports/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/sports/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/sports/vendor/composer" />
+      <path value="$PROJECT_DIR$/sports/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/sports/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/sports/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/sports/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/sports/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/sports/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/sports/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/sports/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/sports/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/sports/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/sports/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/sports/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/sports/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/sports/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/sports/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/sports/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/sports/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/sports/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/sports/vendor/dnoegel/php-xdg-base-dir" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="31" />
+    <option name="width" value="642" />
+    <option name="height" value="453" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="esp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fr" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Laravel_Project_Feb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel_Project_Feb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sports" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sports/resources/views/auth" />
+      <recent name="$PROJECT_DIR$/sports/database/seeds" />
+      <recent name="$PROJECT_DIR$/sports/resources/views" />
+      <recent name="$PROJECT_DIR$/sports/public/css" />
+      <recent name="$PROJECT_DIR$/sports/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sports/resources/views" />
+      <recent name="$PROJECT_DIR$/sports/resources/views/auth/passwords" />
+      <recent name="$PROJECT_DIR$/sports/resources/views/auth" />
+      <recent name="$PROJECT_DIR$/sports/resources/views/layouts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf6634d-b43b-4bdd-aa26-c8ca6b4d80ac" name="Default" comment="" />
+      <created>1523520013225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523520013225</updated>
+      <workItem from="1523520014809" duration="16262000" />
+      <workItem from="1523540198805" duration="15929000" />
+      <workItem from="1523565777374" duration="26000" />
+      <workItem from="1523566492040" duration="1761000" />
+      <workItem from="1523602328948" duration="7438000" />
+      <workItem from="1523613711421" duration="4138000" />
+      <workItem from="1523619594165" duration="22717000" />
+      <workItem from="1523735336910" duration="1613000" />
+      <workItem from="1523737328595" duration="10107000" />
+      <workItem from="1523784459628" duration="18008000" />
+      <workItem from="1523804483911" duration="8961000" />
+      <workItem from="1523825096966" duration="599000" />
+      <workItem from="1523861978941" duration="216000" />
+      <workItem from="1523868319661" duration="10128000" />
+      <workItem from="1523880407209" duration="12119000" />
+      <workItem from="1523893392671" duration="9541000" />
+      <workItem from="1523948925609" duration="204000" />
+      <workItem from="1525037252936" duration="84000" />
+      <workItem from="1525071617488" duration="4072000" />
+      <workItem from="1525076078366" duration="2653000" />
+      <workItem from="1525162101226" duration="8612000" />
+      <workItem from="1525425769007" duration="6107000" />
+      <workItem from="1525442503736" duration="790000" />
+      <workItem from="1525548618863" duration="1773000" />
+      <workItem from="1525551403243" duration="47000" />
+      <workItem from="1525687044521" duration="959000" />
+      <workItem from="1525693870692" duration="242000" />
+      <workItem from="1526648012569" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="170880000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="31" width="1922" height="874" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23003195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24707136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/matchDetails.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/public/js/time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/database/migrations/2018_04_30_070759_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Contracts/Routing/Registrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5855">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Routing/ControllerMiddlewareOptions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/public/css/stadium.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/players.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/Auth/ResetPasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/AFU.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/AFM.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/AFPos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/AFT.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/AFP.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/public/css/prototype.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="665" column="21" lean-forward="false" selection-start-line="665" selection-start-column="21" selection-end-line="665" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/lang/en/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/lang/en/passwords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/lang/en/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/layouts/baseball.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/views/match.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <marker date="1525550307334" expanded="true" signature="84:113" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="329:347" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="356:375" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="416:431" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="440:456" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="497:521" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="530:548" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="589:610" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="619:635" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="676:692" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="701:718" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="759:782" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="791:809" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="850:874" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="883:901" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="942:965" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="974:991" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1095:1116" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1165:1186" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1362:1379" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1444:1463" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1469:1486" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1524:1546" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1611:1633" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1682:1701" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1707:1723" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1809:1821" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="1871:1875" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2090:2111" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2175:2194" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2200:2217" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2255:2277" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2342:2364" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2413:2432" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2438:2454" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2544:2556" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2606:2610" ph="..." />
+            <marker date="1525550307334" expanded="true" signature="2718:2738" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/lang/en/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/lang/esp/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/resources/lang/fr/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Bets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Match.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/BetsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#39#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Flask_D01/call_API/test.php" />
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/MatchController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="131" column="33" lean-forward="true" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sports/app/Http/Controllers/PlayersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

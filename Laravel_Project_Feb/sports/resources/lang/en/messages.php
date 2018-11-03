@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+	"WELCOME IN OUR BASEBALL OFFICIAL SITE"=> "WELCOME IN OUR BASEBALL OFFICIAL SITE",
+	"Login"=> "Login",
+	"Register"=> "Register",
+	"Home"=> "Home",
+	"Teams"=> "Teams",
+	"Players"=> "Players",
+	"E-Mail Address"=> "E-Mail Address",
+	"Password"=> "Password",
+	"Remember Me"=> "Remember me",
+	"Forgot Your Password?"=> "Forgot Your Password",
+	"Name"=> "Name",
+	"Confirm Password"=> "Confirm Password",
+	"Dashboard"=>"Dashboard",
+	"Our players ranking"=> "Our players ranking",
+	"Ranking"=> "Ranking",
+	"You are logged in!"=> "You are logged in!",
+	"Individual description"=> "Individual description",
+	"NAME"=>"PLAYERS NAME",
+	"AGE"=> "AGE",
+	"HEIGHT"=> "HEIGHT",
+	"RANKING"=> "DESC ORDER",
+	"POSITION"=> "POSITION",
+	"NATIONALITY"=> "NATIONALITY",
+	"News"=> "News",
+	"Lang"=> "Language",
+	"English"=> "English",
+	"Spanish"=> "Spanish",
+	"French"=>"French",
+    "Connect your passion for the baseball with us!"=>"Connect your passion for the baseball with us!",
+    "Register your passion for the baseball with us!"=>"Register your passion for the baseball with us!",
+    "Logout"=>"Logout",
+
+];
